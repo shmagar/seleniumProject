@@ -18,7 +18,7 @@ public class FirstTest {
     public WebDriver driver;
 
     //Declare a test URL variable
-    public String testURL = "http://swtestacademy.com/";
+    public String testURL = "https://automationfactory.in/";
 
     //-----------------------------------Test Setup-----------------------------------
     @BeforeMethod
@@ -40,7 +40,7 @@ public class FirstTest {
         System.out.println("Page Title: " + title);
 
         //Assertion
-        Assert.assertEquals(title, "Software Test Academy", "Title assertion is failed!");
+        Assert.assertEquals(title, "DevOps Training In Pune | DevOps Certification in Pune", "Title assertion is failed!");
     }
 
     //-----------------------------------Test TearDown-----------------------------------

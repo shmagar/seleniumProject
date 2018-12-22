@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="AllTestsSuite" duration-ms="14417" started-at="2017-05-30T22:09:17Z" finished-at="2017-05-30T22:09:31Z">
+  <suite name="FirstTest" duration-ms="14551" started-at="2018-12-22T03:09:32Z" finished-at="2018-12-22T03:09:46Z">
     <groups>
     </groups>
-    <test name="My First Selenium TestNG Test" duration-ms="14417" started-at="2017-05-30T22:09:17Z" finished-at="2017-05-30T22:09:31Z">
+    <test name="Command line test" duration-ms="14551" started-at="2018-12-22T03:09:32Z" finished-at="2018-12-22T03:09:46Z">
       <class name="FirstTest">
-        <test-method status="PASS" signature="setupTest()[pri:0, instance:FirstTest@42d3bd8b]" name="setupTest" is-config="true" duration-ms="13198" started-at="2017-05-31T01:09:17Z" finished-at="2017-05-31T01:09:30Z">
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:FirstTest@668bc3d5]" name="setupTest" is-config="true" duration-ms="13696" started-at="2018-12-22T03:09:32Z" finished-at="2018-12-22T03:09:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupTest -->
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:FirstTest@42d3bd8b]" name="firstTest" duration-ms="27" started-at="2017-05-31T01:09:30Z" finished-at="2017-05-31T01:09:30Z">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:FirstTest@668bc3d5]" name="firstTest" duration-ms="12" started-at="2018-12-22T03:09:45Z" finished-at="2018-12-22T03:09:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="teardownTest()[pri:0, instance:FirstTest@42d3bd8b]" name="teardownTest" is-config="true" duration-ms="1155" started-at="2017-05-31T01:09:30Z" finished-at="2017-05-31T01:09:31Z">
+        <test-method status="PASS" signature="teardownTest()[pri:0, instance:FirstTest@668bc3d5]" name="teardownTest" is-config="true" duration-ms="812" started-at="2018-12-22T03:09:45Z" finished-at="2018-12-22T03:09:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownTest -->
       </class> <!-- FirstTest -->
-    </test> <!-- My First Selenium TestNG Test -->
-  </suite> <!-- AllTestsSuite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- FirstTest -->
 </testng-results>
